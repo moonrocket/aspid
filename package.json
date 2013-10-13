@@ -1,5 +1,5 @@
 {
-  "name": "the-new-sandbox",
+  "name": "ASP'ID Web Site",
   "version": "0.4.0",
   "description": "Sandbox site featuring typical Apostrophe features",
   "main": "app.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "P'unk Avenue",
+  "author": "F.FOK, Leveraging works done by P'unk Avenue",
   "license": "BSD",
   "dependencies": {
     "appy": "0.x",
